@@ -3,12 +3,13 @@
 
 ## 📖 About
 
-This repository serves as a structured workspace for managing literature reviews, summarizing key insights, and tracking research progress. It is especially useful for:
+Main Content:
 
-- Keeping records of papers read and reviewed.
-- Tracking submission status for different venues.
-- Collaborating with team members on research tasks.
-- Documenting research milestones and updates.
+- FROM HUMAN DATA TO WORLD MODELS: TOWARDS SCENARIO INTELLIGENCE
+- FROM DECENTRALIZATION TO DISTRIBUTION: TOWARDS FEDERATED INTELLIGENCE
+- FROM REASONING TO SPATIAL COGNITION: TOWARDS PHYSICAL INTELLIGENCE
+- FROM AUTOMATION TO AUTONOMY: TOWARDS AGENTIC INTELLIGENCE
+- FROM HUMANOID TO AUTONOMOUS: TOWARDS EMBODIED INTELLIGENCE
 
 ---
 
