@@ -1,5 +1,5 @@
 #   🤖Foundation-Intelligence-for-AI-Ecology
-  How Foundation Models Reshape AI Ecology?
+  How Foundation Models Reshape AI Ecology? 
 
 ## 📖 About
 
@@ -14,10 +14,8 @@ This repository serves as a structured workspace for managing literature reviews
 
 ## 📰 News
 
-- **2025-07-22**: Initial README created, project structure set up.
-- **2025-07-20**: Added 20+ papers on LLMs and recommendation systems.
-- **2025-07-10**: Meeting with team to assign reading tasks and deadlines.
-- **2025-07-22**: Literature classification structure finalized.
+
+- **2025-07-22**:  [Yonglin Tian](https://github.com/Hub-Tian) [Jun Huang](https://github.com/UnicornHJ)and [Fei Lin](https://github.com/linfei-mise)curated this list and published the first version..
 
 ---
 
@@ -30,8 +28,20 @@ This repository serves as a structured workspace for managing literature reviews
 | 3  | Distilling Knowledge for Multi-modal LLMs                    | Wang & Liu          | NeurIPS       | 2022  | Not travel-focused       |
 | 4  | Fine-tuning Strategies of BERT                                | Devlin et al.       | NAACL         | 2019  | For background section   |
 
+## 🗂️ Awesome Papers: From reasoning to spatial cognition: towards physical intelligence
+### LLMs 
+
+| #  | Title                                                         | Authors             | Venue         | Year | Notes                    |
+|----|---------------------------------------------------------------|---------------------|---------------|------|--------------------------|
+| 1  | A Survey on Large Language Models for Recommendation Systems | Zhang et al.        | arXiv         | 2024  | Key taxonomy for models |
+| 2  | TravelGPT: Planning Trips with AI                             | Lee et al.          | AAAI          | 2023 | Relevant for iPoloGO     |
+| 3  | Distilling Knowledge for Multi-modal LLMs                    | Wang & Liu          | NeurIPS       | 2022  | Not travel-focused       |
+| 4  | Fine-tuning Strategies of BERT                                | Devlin et al.       | NAACL         | 2019  | For background section   |
+
+### MLLMs 
+
+
 
 ---
 
-## 📂 Folder Structure
 
