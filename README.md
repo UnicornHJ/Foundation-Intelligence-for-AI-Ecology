@@ -15,7 +15,7 @@ This repository serves as a structured workspace for managing literature reviews
 ## 📰 News
 
 
-- **2025-07-22**:  [Yonglin Tian](https://github.com/Hub-Tian) [Jun Huang](https://github.com/UnicornHJ)and [Fei Lin](https://github.com/linfei-mise)curated this list and published the first version..
+- **2025-07-22**:  [Yonglin Tian](https://github.com/Hub-Tian), [Jun Huang](https://github.com/UnicornHJ)and [Fei Lin](https://github.com/linfei-mise)curated this list and published the first version..
 
 ---
 
